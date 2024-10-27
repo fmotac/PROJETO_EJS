@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/3e144551-ac7a-41f6-b4cb-1311af298cc3/resourceGroups/fmotac-app/providers/Microsoft.Web/sites/fmotac-ejs",
+    "appService.deploySubpath": "."
+}
